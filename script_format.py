@@ -134,8 +134,8 @@ class DataJoinFormat:
 
 djf = DataJoinFormat()
 print("> Processamento em andamento")
-path_source = "/home/marcelo/Documents/tcc/dados-analise/regiao-sul/sc/"
-path_dest = "/home/marcelo/Documents/git/marcelo-preprocessing/data-preprocessing/dados-prepocessados/regiao-sul/sc/"
+path_source = ""
+path_dest = ""
 djf.data_join(path_source, path_dest)
 print("> Processamento concluído")
 
