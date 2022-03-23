@@ -20,4 +20,10 @@ a previsão de parâmetros climáticos, a fim de proporcionar ao agricultor maio
 em suas ações e o aumento do valor de seu produto.
 
 ### Monografia
-A monografia desenvolvida se encontra [aqui.](link) 
+A monografia desenvolvida se encontra [aqui.](https://github.com/marcelo-bn/tcc_marcelo/blob/main/monografia_marcelo.pdf) 
+
+### TCCs do curso
+Neste [link](https://wiki.sj.ifsc.edu.br/index.php/TCC_da_Engenharia_de_Telecomunica%C3%A7%C3%B5es_-_conclu%C3%ADdos) é possível encontrar todos os Trabalhos finais desenvolvidos no curso.
+
+### Engenharia de Telecomunicações
+[Aqui](https://wiki.sj.ifsc.edu.br/index.php/Matriz_Curricular_da_Engenharia_de_Telecomunica%C3%A7%C3%B5es) se encontra toda a matriz curricular do Curso. 
